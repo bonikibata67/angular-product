@@ -1,0 +1,28 @@
+.form-wrapper {
+    width: 300px;
+    margin: auto;
+    /* border: 2px solid blue; */
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 8px;
+  }
+  
+  .btn-primary {
+    padding: 10px 20px;
+  }
+  
+  .signup-link {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  p {
+    color: red;
+  }
+  
